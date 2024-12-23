@@ -1,0 +1,112 @@
+body{
+    font-family: 'Roboto',
+    sans-serif;
+    background-color: #000000;
+}
+
+.logo{
+color:#FFC947;
+  font-family:"Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.logo:hover{
+ color:#F7F6F2;
+
+
+}
+h1{
+font-family: 'Ubuntu Condensed',
+sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+font-weight: 900;
+ 
+}
+
+#title{
+    background-color: #39A2DB;
+}
+#moto{
+   font-family: 'Roboto',
+   sans-serif;
+    color:#F7F6F2;
+}
+#moto:hover{
+  color: #F7F6F2;
+  font-family: 'Ubuntu',
+  sans-serif;
+  font-family: 'Montserrat',
+  sans-serif;
+
+}
+.container-fluid{
+   padding: 0% 5% ;
+
+
+}
+p{
+    font-family:"Ubuntu",
+    sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #F7F6F2;
+
+}
+p:hover{
+    color: #14FFEC;
+}
+.navbar{
+   padding-bottom: 2rem ; 
+}
+
+.nav-item{
+    padding: 0px 10px ;
+    margin-left:70px;
+    font-family: "Ubuntu";
+}
+.logo2{
+    width: 50%;
+}
+
+#cards{
+  padding: 20px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  
+
+
+}
+.card{
+background-color: #1597BB;
+height: 468.08px;
+margin-bottom: 30px;
+
+
+    
+}
+.card-img-top{
+    width: 30%;
+}
+.card-title{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    color:whitesmoke;
+    
+}
+.card-text{
+    color:black;
+    
+}
+.card-text:hover{
+    color:whitesmoke;
+}
+#bottom-level{
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.form-label{
+    color: whitesmoke;
+}
